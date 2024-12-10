@@ -1,0 +1,169 @@
+{
+  "basics": {
+    "name": "Aayush Fadia",
+    "email": "afadia@andrew.cmu.edu",
+    "phone": "+1-412-933-6307",
+    "website": "https://thomasedison.com",
+    "summary": "Hi! I am Aayush, a Graduate Student pursuing a Master of Science - Robotic Systems Development (MRSD) in the Robotics Institute at Carnegie Mellon University.Previously I worked in the Qualcomm compilers team during 2022 - 2024 to accelerate on-device AI. I graduated with a Bachelors degree in Computer Science and Engineering from Visvesvaraya National Institute of Technology in 2022. While at VNIT, I interned at Google developing internal finance dashboards and a feature in the payments app GPay. In my free time, I like to read, run and lift.",
+    "location": {
+      "address": "Pittsburgh, PA",
+      "postalCode": "12345",
+      "city": "Pittsburgh",
+      "countryCode": "US",
+      "region": "Pennsylvania"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "aayush-fadia"
+      },
+      {
+        "network": "GitHub",
+        "username": "aayush-fadia"
+      }
+    ]
+  },
+  "work": [
+    {
+          "company": "Qualcomm Innovation Centre",
+          "position": "Software Engineer (ML/AI Compilers)",
+          "location": "Hyderabad, India",
+          "startDate": "2023-09-02",
+          "endDate": "2024-07-02",
+          "highlights": [
+            "Led exploration of emerging compiler technology to **accelerate on-device AI**.",
+            "Researched ML frameworks (like Pytorch, JAX, Mojo), intermediate representations, compiler optimizations and cutting-edge CPU vector instructions.",
+            "Identified common tasks/operations and designed compiler implementations to map onto fast hardware primitives.",
+            "Presented four **tech talks and produced technical documentation** to improve cross-functional team knowledge.",
+            "Set the stage for Qualcomm's foray into creating **developer-friendly ecosystems**.",
+            "**Learnings:** Machine Learning Internals, Vectorization, Working within Compute/Size/Power constraints"
+          ]
+        },
+        {
+          "company": "Qualcomm Innovation Centre",
+          "position": "Associate Software Engineer (Windows on Arm Compiler)",
+          "location": "Hyderabad, India",
+          "startDate": "2022-07-02",
+          "endDate": "2023-08-02",
+          "highlights": [
+            "Reverse-engineered and implemented compiler support for an undocumented Windows on ARM ABI.",
+            "Automated compiler artifact analysis to discover 13 and fix 5 critical compiler errors in **early** stages.",
+            "Developed a code-generator to **fuzz** compiler - identified and fixed three miscompilations.",
+            "Tested the implementation on several libraries and obtained **2x performance** of emulated code.",
+            "Analyzed assembly and wrote compiler optimizations to gain a **10% speedup** in a popular rendering benchmark.",
+            "Contributed to ongoing compiler stability by **root-causing and fixing performance regressions**.",
+            "**Learnings:** The Arm Architecture, High-Performance Coding, Build Systems"
+          ]
+        },
+        {
+          "company": "Google",
+          "position": "Application Engineering Intern (Core/GPay)",
+          "location": "Bangalore, India (Remote)",
+          "startDate": "2021-05-02",
+          "endDate": "2021-07-02",
+          "highlights": [
+            "Implemented payment note suggestions in GPay, an app **used by millions** across India.",
+            "Contributed to **all stages of the lifecycle** - conception, development, testing, validation, deployment and evaluation.",
+            "Collaborated with multiple teams - product/project management, testing, data privacy and UX.",
+            "Decreased note-carrying transaction flow times by 50%.",
+            "**Learnings:** Large-Scale Engineering, Validating Critical Systems, Cross-Team collaboration"
+          ]
+        }
+  ],
+  "education": [
+    {
+          "institution": "Carnegie Mellon University",
+          "area": "Robotics Systems Development",
+          "location": "Pittsburgh, PA",
+          "studyType": "MS",
+          "startDate": "2024-08",
+          "endDate": "2026-05",
+     "courses": [
+        "Advanced Computer Vision",
+        "Robot Mobility","Manipulation, Estimation and Control",
+        "Systems Engineering and Project Management for Robotics"
+      ]
+    },
+    {
+          "institution": "Visvesvaraya National Institute of Technology",
+          "area": "Computer Science and Engineering",
+          "location": "Nagpur, India - GPA: 8.44",
+          "studyType": "B.Tech",
+          "startDate": "2018-07",
+          "endDate": "2022-05"
+        }
+  ],
+  "awards": [
+    {
+      "title": "First Place - Smart India Hackathon",
+      "date": "2021",
+      "awarder": "Ministry of Human Resource Development - Gov. Of India",
+      "summary": "Won the nationwide Smart India Hackathon"
+    }
+  ],
+  "publications": [
+    {
+      "name": "MuOE: A Multi-task Ordinality Aware Approach Towards Engagement Detection",
+      "publisher": "10th International Conference of Pattern Recognition and Machine Intelligence",
+      "releaseDate": "2023-12-02"
+    },
+    {
+      "name": "Sahayak - An Autonomous COVID Aid Bot",
+      "publisher": "International Symposium of Medical Robotics, GeorgiaTech",
+      "releaseDate": "2021-11-02"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Robotics",
+          "keywords": ["Visual Odometry", "Camera Calibration", "Lucas-Kanade Tracking", "3D Reconstruction", "Deep Learning", "Physics-Based Vision", "State Estimation", "Object Detection", "Mapping", "Localization"]
+    },
+    {
+      "name": "Programming and Technologies",
+          "keywords": ["C++", "C", "Java", "Python", "Matlab", "ARM Architecture", "ROS", "Linux", "Unreal Engine", "Webots", "Gazebo", "NVIDIA Omniverse", "Docker", "LLVM", "MLIR", "Git", "PyTorch", "JAX", "Tensorflow"]
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hobbies",
+      "keywords": [
+        "Lifting",
+        "Running",
+        "Reading"
+      ]
+    }
+  ],
+  "projects": [
+    {
+          "name": "Drone-based Mapping of Perceptually Degraded Environments",
+          "startDate": "2024-09-02",
+          "highlights": [
+            "Building a drone to map smoky/dark environments to provide first-responders with the information they need.",
+            "Designed system functional and cyberphysical architectures.",
+            "Developing basic Odometry and SLAM algorithms, exploring Thermal and radar modalities to overcome perception degradation."
+          ]
+        },
+        {
+          "name": "Attentiveness Detection in Online Lectures",
+          "url": "https://drive.google.com/file/d/1GAWjSKJ20D13dsRPo7gBWxlIrVqOE-jF/view?usp=sharing",
+          "startDate": "2020-05-02",
+          "endDate": "2022-05-02",
+          "highlights": [
+            "Inferred student attentiveness in online lectures and displayed realtime metrics to the instructor on a mobile app.",
+            "Won the Smart India Hackathon 2020 by building a prototype in 3 days using image processing, computer vision, machine learning, cloud computing and app development.",
+            "**Published** a novel state-of-the-art method for attetion-level detection. [https://doi.org/10.1007/978-3-031-45170-6_8](https://doi.org/10.1007/978-3-031-45170-6_8)"
+          ]
+        },
+        {
+          "name": "Sahayak - The Covid Aid Bot",
+          "url": "https://youtu.be/pSqHcjDWims",
+          "startDate": "2021-06-02",
+          "endDate": "2021-12-02",
+          "highlights": [
+            "Implemented visual odometry and an android app for a robot to help safe contactless care of contagious patients.",
+            "Deployed at All India Institute of Medical Sciences, Nagpur, received positive responses from doctors and nurses.",
+            "**Published** the design for an autonomous iteration of the robot to aid future efforts. [https://hal.science/hal-03476539/](https://hal.science/hal-03476539/)"
+          ]
+        }
+  ]
+}
